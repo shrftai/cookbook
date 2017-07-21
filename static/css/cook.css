@@ -1,0 +1,8 @@
+.listcolumns ol {
+  column-count: 99;
+}
+
+ul {
+  column-count: 2;
+}
+

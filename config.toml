@@ -1,0 +1,75 @@
+#baseURL = "/Sites/book/"
+baseURL = ""
+#baseurl = "http://localhost:1313/Sites/book/"
+languageCode = "en-us"
+defaultContentLanguage = "en-us"
+title = "The Cookbook"
+theme = "hugo-tranquilpeak-theme"
+
+paginate = 7
+disablePathToLower = true
+
+preserveTaxonomyNames = true
+
+[permalinks]
+#  post = "/:year/:month/:slug/"
+  post = "/:slug/"
+
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+
+# Menu Configuration
+[[menu.main]]
+  weight = 0
+  identifier = "home"
+  name = "Home"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
+  url = "/"
+[[menu.main]]
+  weight = 1
+  identifier = "categories"
+  name = "Categories"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
+  url = "/categories"
+[[menu.main]]
+  weight = 2
+  identifier = "tags"
+  name = "Tags"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
+  url = "/tags"
+
+
+[params]
+  # Customize date format use to render blog post date, categories and other
+  # Default format is: January 2, 2006
+
+  # Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
+  clearReading = false
+
+  description = "Tai Family Recipes"
+
+  sidebarBehavior = 3
+  
+  autoThumbnailImage = true
+  thumbnailImage = true
+
+  coverImage = "cover.jpg"
+  
+  dateFormat = "January 02, 2006"
+  
+  customCSS = ["css/cook.css"]
+  
+  showDate = false
+
+
+  [params.header.rightLink]
+    class = ""
+    icon = ""
+    url = "/#about"
+
+
+
+
