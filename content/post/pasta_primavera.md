@@ -2,8 +2,6 @@
 title: "Pasta Primavera"
 date: 2017-07-14T11:13:22-04:00
 draft: false
-showSocial: false
-showDate: false
 
 image: "img/primavera.png"
 thumbnailImagePosition: right
@@ -11,10 +9,10 @@ thumbnailImage: "img/primavera.png"
 
 categories:
 - Dinner
-- Pasta
 tags:
 - Pasta
 - Italian
+- Pasta salad
 ---
 
 

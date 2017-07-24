@@ -3,7 +3,6 @@ title: "Lasagna"
 date: 2017-07-19T09:22:58-04:00
 draft: true
 
-image: "img/lasagna.png"
 thumbnailImagePosition: right
 thumbnailImage: "img/lasagna.png"
 

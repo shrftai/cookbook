@@ -2,7 +2,6 @@
 title: "Grape Leaves"
 date: 2017-07-13T21:48:38-04:00
 draft: true
-showSocial: false
 
 image: "img/grape_leaves.png"
 thumbnailImagePosition: left

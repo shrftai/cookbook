@@ -63,6 +63,8 @@ preserveTaxonomyNames = true
   customCSS = ["css/cook.css"]
   
   showDate = false
+  showTags = false
+  showSocial = false
 
 
   [params.header.rightLink]
