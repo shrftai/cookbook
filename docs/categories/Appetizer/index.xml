@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Appetizer on The Cookbook</title>
+    <link>https://shrftai.github.io/cookbook/categories/Appetizer/</link>
+    <description>Recent content in Appetizer on The Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jul 2017 21:48:38 -0400</lastBuildDate>
+    
+	<atom:link href="https://shrftai.github.io/cookbook/categories/Appetizer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grape Leaves</title>
+      <link>https://shrftai.github.io/cookbook/Grape-Leaves/</link>
+      <pubDate>Thu, 13 Jul 2017 21:48:38 -0400</pubDate>
+      
+      <guid>https://shrftai.github.io/cookbook/Grape-Leaves/</guid>
+      <description>&lt;p&gt;Great for an appetizer or snack. Get grape leaves from somewhere.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

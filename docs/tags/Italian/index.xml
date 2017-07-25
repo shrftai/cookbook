@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Italian on The Cookbook</title>
+    <link>https://shrftai.github.io/cookbook/tags/Italian/</link>
+    <description>Recent content in Italian on The Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jul 2017 09:22:58 -0400</lastBuildDate>
+    
+	<atom:link href="https://shrftai.github.io/cookbook/tags/Italian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lasagna</title>
+      <link>https://shrftai.github.io/cookbook/Lasagna/</link>
+      <pubDate>Wed, 19 Jul 2017 09:22:58 -0400</pubDate>
+      
+      <guid>https://shrftai.github.io/cookbook/Lasagna/</guid>
+      <description>&lt;p&gt;Oldie but goodie
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pasta Primavera</title>
+      <link>https://shrftai.github.io/cookbook/Pasta-Primavera/</link>
+      <pubDate>Fri, 14 Jul 2017 11:13:22 -0400</pubDate>
+      
+      <guid>https://shrftai.github.io/cookbook/Pasta-Primavera/</guid>
+      <description>&lt;p&gt;Summer dish
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

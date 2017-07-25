@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on The Cookbook</title>
+    <link>https://shrftai.github.io/cookbook/tags/</link>
+    <description>Recent content in Tags on The Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jul 2017 21:48:38 -0400</lastBuildDate>
+    
+	<atom:link href="https://shrftai.github.io/cookbook/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Appetizer</title>
+      <link>https://shrftai.github.io/cookbook/tags/Appetizer/</link>
+      <pubDate>Thu, 13 Jul 2017 21:48:38 -0400</pubDate>
+      
+      <guid>https://shrftai.github.io/cookbook/tags/Appetizer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dinner</title>
+      <link>https://shrftai.github.io/cookbook/tags/Dinner/</link>
+      <pubDate>Wed, 19 Jul 2017 09:22:58 -0400</pubDate>
+      
+      <guid>https://shrftai.github.io/cookbook/tags/Dinner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easter</title>
+      <link>https://shrftai.github.io/cookbook/tags/Easter/</link>
+      <pubDate>Fri, 21 Jul 2017 11:54:51 -0400</pubDate>
+      
+      <guid>https://shrftai.github.io/cookbook/tags/Easter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holiday</title>
+      <link>https://shrftai.github.io/cookbook/tags/Holiday/</link>
+      <pubDate>Fri, 21 Jul 2017 11:54:51 -0400</pubDate>
+      
+      <guid>https://shrftai.github.io/cookbook/tags/Holiday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian</title>
+      <link>https://shrftai.github.io/cookbook/tags/Italian/</link>
+      <pubDate>Wed, 19 Jul 2017 09:22:58 -0400</pubDate>
+      
+      <guid>https://shrftai.github.io/cookbook/tags/Italian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lebanese</title>
+      <link>https://shrftai.github.io/cookbook/tags/Lebanese/</link>
+      <pubDate>Thu, 13 Jul 2017 21:48:38 -0400</pubDate>
+      
+      <guid>https://shrftai.github.io/cookbook/tags/Lebanese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pasta</title>
+      <link>https://shrftai.github.io/cookbook/tags/Pasta/</link>
+      <pubDate>Fri, 14 Jul 2017 11:13:22 -0400</pubDate>
+      
+      <guid>https://shrftai.github.io/cookbook/tags/Pasta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pasta salad</title>
+      <link>https://shrftai.github.io/cookbook/tags/Pasta-salad/</link>
+      <pubDate>Fri, 14 Jul 2017 11:13:22 -0400</pubDate>
+      
+      <guid>https://shrftai.github.io/cookbook/tags/Pasta-salad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snack</title>
+      <link>https://shrftai.github.io/cookbook/tags/Snack/</link>
+      <pubDate>Thu, 13 Jul 2017 21:48:38 -0400</pubDate>
+      
+      <guid>https://shrftai.github.io/cookbook/tags/Snack/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dinner on The Cookbook</title>
+    <link>https://shrftai.github.io/cookbook/tags/Dinner/</link>
+    <description>Recent content in Dinner on The Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jul 2017 09:22:58 -0400</lastBuildDate>
+    
+	<atom:link href="https://shrftai.github.io/cookbook/tags/Dinner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lasagna</title>
+      <link>https://shrftai.github.io/cookbook/Lasagna/</link>
+      <pubDate>Wed, 19 Jul 2017 09:22:58 -0400</pubDate>
+      
+      <guid>https://shrftai.github.io/cookbook/Lasagna/</guid>
+      <description>&lt;p&gt;Oldie but goodie
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
