@@ -1,4 +1,4 @@
-baseURL = "https://sharift.gitlab.io"
+baseURL = "https://sharift.gitlab.io/cookbook"
 #baseURL = ""
 #baseurl = "http://localhost:1313/Sites/book/"
 languageCode = "en-us"
